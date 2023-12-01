@@ -1,4 +1,4 @@
-from agents import AgentsView
+from views.agents import AgentsView
 from dash import html
 
 def SideBarView():
